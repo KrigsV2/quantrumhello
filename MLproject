@@ -1,0 +1,4 @@
+name: rce_test
+entry_points:
+  main:
+    command: "python main.py"
